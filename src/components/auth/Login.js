@@ -3,7 +3,7 @@ import { useDispatch } from 'react-redux';
 import { useNavigate, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { 
-  Box, 
+  Box,
   Card, 
   TextField, 
   Button, 
